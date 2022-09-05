@@ -1,0 +1,51 @@
+body{
+ 
+    opacity: 1;
+}
+
+#fundo {
+    background-image: url(assets/bg.png); 
+}
+
+#titulo{
+   font-family: Georgia;
+   color: #00a8ff;
+   font-size: 25px;
+   background-color: #120632 ;
+   height: 30px;
+   width: 100%;
+   padding: 10px;
+   margin: -10px;
+   text-align: center;
+}
+
+#linha-vertical {
+    height: 500px;
+    border-right: 2px solid #120632;
+    
+}
+
+#linha-horizontal {
+    width: 100%;
+    border: 8px solid #120632;
+    margin: -10px;
+    margin-bottom: 20px;
+}
+
+h1{
+    font-family: Georgia;
+    color:#120632;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
